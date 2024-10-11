@@ -8,6 +8,7 @@ body {
     margin: 0px;
     height: 100vh;
     width: 100vw;
+    background-color: aliceblue;
 }
 
 .box {
@@ -17,5 +18,30 @@ body {
     flex-direction: column;
     border-radius: 12px;
     background-color: white;
-    width: 50%;
+    width: 700px;
+    height: 600px;
 }
+
+.box1 {
+
+}
+
+.back {
+    background: center / cover url("back.png");
+    height: ;
+    width: 100%;
+}
+
+.pp {
+    background: center / cover url("pp.png");
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
