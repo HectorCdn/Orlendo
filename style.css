@@ -72,7 +72,24 @@ body {
     justify-content: center;
 }
 
+.box2 {
+    background-color: white;
+    width: 100%;
+}
 
+.t1 {
+    display: flex;
+    flex-direction: column;
+}
 
+.orlendo  {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
 
-
+.lore1 {
+    margin-left: 20px;
+    font-weight: lighter;
+}
